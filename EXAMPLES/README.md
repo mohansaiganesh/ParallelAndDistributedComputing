@@ -1,0 +1,1 @@
+This folder contains list of examples demonstrating how to use GPU, CPU for parallel processing.
